@@ -38,3 +38,4 @@ Hi, I'm **Chijindu Nzeako**, a passionate self-taught full stack web developer a
 5. [Discord](https://discord.com/) - **Digi-Coder#0848**
 6. [Stackoverflow](https://stackoverflow.com/users/16476639/digi-coder)
 7. [Snapchat](https://www.snapchat.com/add/chi_legend) - **chi_legend**
+8. [Reddit](https://www.reddit.com/user/Digi-Coder)
