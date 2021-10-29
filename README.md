@@ -31,11 +31,12 @@ Hi, I'm **Chijindu Nzeako**, a passionate self-taught full stack web developer a
 
 ## Social Links
 
-1. [Facebook](https://web.facebook.com/nzeako.chijindu.1/)
-2. [Instagram](https://www.instagram.com/digi_coder/)
-3. [Twitter](https://twitter.com/digi_coder/)
-4. [LinkedIn](https://www.linkedin.com/in/chijindunzeako/)
-5. [Discord](https://discord.com/) - **Digi-Coder#0848**
-6. [Stackoverflow](https://stackoverflow.com/users/16476639/digi-coder)
-7. [Snapchat](https://www.snapchat.com/add/chi_legend) - **chi_legend**
-8. [Reddit](https://www.reddit.com/user/Digi-Coder)
+1. [Facebook 1](https://web.facebook.com/nzeako.chijindu.1/)
+2. [Facebook 2](https://web.facebook.com/chijindu.nzeako.31/)
+3. [Instagram](https://www.instagram.com/digi_coder/)
+4. [Twitter](https://twitter.com/digi_coder/)
+5. [LinkedIn](https://www.linkedin.com/in/chijindunzeako/)
+6. [Discord](https://discord.com/) - **Digi-Coder#0848**
+7. [Stackoverflow](https://stackoverflow.com/users/16476639/digi-coder)
+8. [Snapchat](https://www.snapchat.com/add/chi_legend) - **chi_legend**
+9. [Reddit](https://www.reddit.com/user/Digi-Coder)
