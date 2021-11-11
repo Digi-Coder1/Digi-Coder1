@@ -32,7 +32,7 @@ Hi, I'm **Chijindu Nzeako**, a passionate self-taught full stack web developer a
 ## Social Links
 
 1. [Facebook 1](https://web.facebook.com/nzeako.chijindu.1/)
-2. [Facebook 2](https://web.facebook.com/chijindu.nzeako.31/)
+2. [Facebook 2](https://web.facebook.com/chijindu.nzeako.2/)
 3. [Instagram](https://www.instagram.com/digi_coder/)
 4. [Twitter](https://twitter.com/digi_coder/)
 5. [LinkedIn](https://www.linkedin.com/in/chijindunzeako/)
