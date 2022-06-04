@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Glad to have you here!
 
-![This is an image](https://scontent.fabb1-1.fna.fbcdn.net/v/t1.6435-9/191791822_101385745498387_1815403153067015604_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFuf9bMMfoClBVqGsWP9c-fOQOd283lfW05A53bzeV9ba4QLYPyg1LkubZsJjEKYLEYB6pFRb2VN-F8oewX806t&_nc_ohc=bKEyfiovVusAX-IrDIO&_nc_ht=scontent.fabb1-1.fna&oh=7a5199cd909ac5d67f070876cdcdffcc&oe=619C461D)
-
 Hi, I'm **Chijindu G. Nzeako**, a passionate self-taught full stack web developer and a freelance software engineer from **Nigeria**.
 
 ## My Skills
@@ -34,12 +32,11 @@ Hi, I'm **Chijindu G. Nzeako**, a passionate self-taught full stack web develope
 
 ## Social Links
 
-1. [Facebook 1](https://web.facebook.com/nzeako.chijindu.1/)
-2. [Facebook 2](https://web.facebook.com/chijindu.nzeako.2/)
-3. [Instagram](https://www.instagram.com/digi_coder/)
-4. [Twitter](https://twitter.com/digi_coder/)
-5. [LinkedIn](https://www.linkedin.com/in/chijindunzeako/)
-6. [Discord](https://discord.com/) - **Digi-Coder#0848**
-7. [Stackoverflow](https://stackoverflow.com/users/16476639/digi-coder)
-8. [Snapchat](https://www.snapchat.com/add/chi_legend) - **chi_legend**
-9. [Reddit](https://www.reddit.com/user/Digi-Coder)
+1. [Facebook 2](https://web.facebook.com/chijindu.nzeako.2/)
+2. [Instagram](https://www.instagram.com/digi_coder/)
+3. [Twitter](https://twitter.com/digi_coder/)
+4. [LinkedIn](https://www.linkedin.com/in/chijindunzeako/)
+5. [Discord](https://discord.com/) - **Digi-Coder#0848**
+6. [Stackoverflow](https://stackoverflow.com/users/16476639/digi-coder)
+7. [Snapchat](https://www.snapchat.com/add/chi_legend) - **chi_legend**
+8. [Reddit](https://www.reddit.com/user/Digi-Coder)
